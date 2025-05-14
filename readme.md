@@ -1,6 +1,6 @@
 ## 🐦 X (Twitter) UI Clone 
 
-A responsive front-end clone of the X homepage, built using **HTML**, and **TailwindCSS**. This project mimics the layout, design, and animations of the original X interface to practice UI development skills.
+A front-end clone of the X homepage, built using **HTML**, and **TailwindCSS**. This project mimics the layout, design, and animations of the original X interface to practice UI development skills.
 
 ---
 
